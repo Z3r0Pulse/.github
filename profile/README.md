@@ -32,7 +32,10 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 
 ------
 
-Built with intelligence, driven by innovation, <b>OpenQQuantify</b>: For the community, by the community.
+Built with intelligence, driven by innovation — find us at [OpenQQuantify.com](https://www.openqquantify.com/), explore our [research](https://www.openqquantify.com/research), learn more [about us](https://www.openqquantify.com/about_us), check out our [GitHub](https://github.com/OpenQ-Quantify), and connect with us on [LinkedIn](https://www.linkedin.com/company/openqquantify).
+
+**OpenQQuantify** — for the community, by the community.
+
 
 ![zeropulse_background](https://github.com/user-attachments/assets/48b1c3e5-bac5-4f0c-ac94-91230d1e1441)
 
