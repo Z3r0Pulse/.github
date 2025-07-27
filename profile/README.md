@@ -6,8 +6,6 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 
 ## Supported Hardware Platforms
 
---
-
 - **MCUs:** STM32, ESP32, Raspberry Pi Pico, Nordic nRF52, TI CC13xx/26xx  
 - **SoCs:** Raspberry Pi CM4, NXP i.MX8, AMD Kraken AI Edge  
 - **Sensors:** Bosch BME-series, TI AFE, Analog Devices IMUs, AMS optical, VL53LXX ToF  
@@ -30,8 +28,7 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 | **MfgAgent**    | Outputs Gerbers, PnP CSVs, and assembly docs                             |
 | **FleetAgent**  | Manages OTA updates and anomaly detection with MQTT & TimescaleDB       |
 
---
-
+---
 Built with intelligence, driven by innovation — find us at [OpenQQuantify.com](https://www.openqquantify.com/), explore our [research](https://www.openqquantify.com/research), learn more [about us](https://www.openqquantify.com/about_us), check out our [GitHub](https://github.com/OpenQ-Quantify), and connect with us on [LinkedIn](https://www.linkedin.com/company/openqquantify).
 
 **OpenQQuantify** - for the community, by the community.
