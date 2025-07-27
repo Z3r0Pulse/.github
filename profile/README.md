@@ -1,5 +1,6 @@
 
 ![oqq_back_jpg](https://github.com/user-attachments/assets/9b6fe220-ac1f-426c-8c0b-bf1bcc71d499)
+<img width="401" height="237" alt="oqq" src="https://github.com/user-attachments/assets/a88e7f0d-ed6f-4c8f-91a1-26aeda302634" />
 
 
 ![zeropulse_background](https://github.com/user-attachments/assets/48b1c3e5-bac5-4f0c-ac94-91230d1e1441)
