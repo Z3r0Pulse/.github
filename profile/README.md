@@ -1,7 +1,6 @@
 <img width="1536" height="685" alt="20250727_2034_Electric Thunder Logo_remix_01k165h6tdejd9zge64zbbt0xs (1)" src="https://github.com/user-attachments/assets/5df88e7e-221c-4099-b71a-c09e7aa352bf" />
 
-OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle — from napkin concept ➜ mass‑production.
-
+OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle from concept to production.
 
 #### Supported Hardware Platforms
 
@@ -10,7 +9,6 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 - **Sensors:** Bosch BME-series, TI AFE, Analog Devices IMUs, AMS optical, VL53LXX ToF  
 - **Comms:** Wi-Fi, BLE, LoRa, CAN, MQTT, UWB  
 - **Custom Parts:** Add new components via the Part-Library SDK  
-
 
 #### Development Pipeline
 
@@ -27,7 +25,7 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 | **FleetAgent**  | Manages OTA updates and anomaly detection with MQTT & TimescaleDB       |
 
 
-<p>You can find us at [openqquantify.com](#link-to-website) for platform access, documentation, and tutorials. Explore our AI and electronics research at the [Research Page](#link-to-research), follow us on [LinkedIn](#link-to-linkedin) for product updates, or check out our solutions at [Sensors.Services](#link-to-sensors-services). Join the conversation on [Reddit](#link-to-reddit), contribute via [GitHub](#link-to-github), or book a support meeting through [Calendly](#link-to-calendly). We’re proudly backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation, and trusted by innovators like Mazda, REW, and Moment Factory.</p>
+<p>You can find us at ([#openqquantify.com](https://www.openqquantify.com/)) for platform access, documentation, and tutorials. Explore our AI and electronics research at the [Research Page](#link-to-research), follow us on [LinkedIn](#link-to-linkedin) for product updates, or check out our solutions at [Sensors.Services](#link-to-sensors-services). Join the conversation on [Reddit](#link-to-reddit), contribute via [GitHub](#link-to-github), or book a support meeting through [Calendly](#link-to-calendly). We’re proudly backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation, and trusted by innovators like Mazda, REW, and Moment Factory.</p>
 
 ---
 
