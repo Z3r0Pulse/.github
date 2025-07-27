@@ -4,7 +4,7 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 
 
 
-#### Supported Hardware Platforms
+## Supported Hardware Platforms
 
 ------
 
@@ -14,7 +14,7 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 - **Comms:** Wi-Fi, BLE, LoRa, CAN, MQTT, UWB  
 - **Custom Parts:** Add new components via the Part-Library SDK  
 
-#### Development Pipeline
+## Development Pipeline
 
 ------
 
