@@ -24,9 +24,6 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 | **MfgAgent**    | Outputs Gerbers, PnP CSVs, and assembly docs                             |
 | **FleetAgent**  | Manages OTA updates and anomaly detection with MQTT & TimescaleDB       |
 
-
-<p>You can find us at ([#openqquantify.com](https://www.openqquantify.com/)) for platform access, documentation, and tutorials. Explore our AI and electronics research at the [Research Page](#link-to-research), follow us on [LinkedIn](#link-to-linkedin) for product updates, or check out our solutions at [Sensors.Services](#link-to-sensors-services). Join the conversation on [Reddit](#link-to-reddit), contribute via [GitHub](#link-to-github), or book a support meeting through [Calendly](#link-to-calendly). We’re proudly backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation, and trusted by innovators like Mazda, REW, and Moment Factory.</p>
-
 ---
 
 Built with intelligence, driven by innovation, <b>OpenQQuantify</b>: For the community, by the community.
