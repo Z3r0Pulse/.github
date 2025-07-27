@@ -26,7 +26,9 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 | **FleetAgent**  | Manages OTA updates and anomaly detection with MQTT & TimescaleDB       |
 
 ---
+
 Find us at [OpenQQuantify.com](https://www.openqquantify.com/), explore our [research](https://www.openqquantify.com/research), learn more [about us](https://www.openqquantify.com/about_us), check out our [GitHub](https://github.com/OpenQ-Quantify), and connect with us on [LinkedIn](https://www.linkedin.com/company/openqquantify).
+
 ---
 © 2025 OpenQQuantify • All rights reserved.
 
