@@ -2,16 +2,54 @@
 
 
 
-**Design. Simulate. Accelerate.**  
-*AI-powered EDA and simulation platform for modern hardware engineering.*
+- **Custom Parts:** Add new components via the Part-Library SDK  
 
-OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle — from napkin concept ➜ mass‑production.
+### Development Pipeline
 
-Connect, collaborate, and share ideas with other engineers and innovators:
+| Agent        | Description                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| **SpecAgent**   | Generates specs in Markdown and JSON using OQ-GPT-13B                    |
+| **DesignAgent** | Produces schematics and renders with graph transformers                  |
+| **FirmwareAgent** | Outputs C/C++ or Rust code, unit tests, and CMSIS packs              |
+| **SimAgent**    | Performs power/thermal analysis with SPICE & ML surrogates              |
+| **TwinAgent**   | Emulates hardware in UE5/Unity HDRP for real-time testing                |
+| **OptAgent**    | Suggests Pareto-optimal BOM/topologies using RL + Bayesian search        |
+| **DocAgent**    | Generates PDFs, datasheets, and CE/FCC plans using LaTeX + LLMs          |
+| **MfgAgent**    | Outputs Gerbers, PnP CSVs, and assembly docs                             |
+| **FleetAgent**  | Manages OTA updates and anomaly detection with MQTT & TimescaleDB       |
 
--  [LinkedIn](https://www.linkedin.com/company/openqquantify)
--  [About Us](https://www.openqquantify.com/about_us)
--  [Research](https://www.openqquantify.com/research)
+### Digital Twin  
+Photorealistic simulation in Unreal Engine 5 or Unity HDRP.  
+- Sensor & actuator emulation  
+- Real-time testing for robotics, wearables, and automotive HMIs  
+- Supports both cloud (AWS NVIDIA L4) and local CI containers
+
+### AI-Assisted Development  
+- Auto component selection  
+- Circuit layout generation  
+- Performance prediction
+
+### Simulation & Verification  
+- Design validation in virtual environments  
+- Early bug detection and iteration
+
+---
+
+## Community Engagement
+
+- **GitHub:** [Contribute on GitHub](#link-to-github)
+- **Reddit:** [Join us at r/OpenQQuantify](#link-to-reddit)
+- **Support:** [connect@openqquantify.com](mailto:connect@openqquantify.com) or [Book a Meeting](#link-to-calendly)
+
+---
+---
+
+- 🌐 [Website](#link-to-website) – Platform access, tutorials, and docs  
+- 📄 [Research](#link-to-research) – AI & electronics innovation insights  
+- 💼 [LinkedIn](#link-to-linkedin) – News, updates, and case studies  
+- 🛠️ [Sensors.Services](#link-to-sensors-services) – AI solutions for robotics and more
+
+---
 
 
 
