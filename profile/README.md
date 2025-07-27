@@ -1,5 +1,4 @@
-
-<img width="1536" height="1024" alt="20250727_2034_Electric Thunder Logo_remix_01k165h6tdejd9zge64zbbt0xs (1)" src="https://github.com/user-attachments/assets/210ef6e6-b9b2-48f0-83ec-98a696b09e19" />
+<img width="1536" height="685" alt="20250727_2034_Electric Thunder Logo_remix_01k165h6tdejd9zge64zbbt0xs (1)" src="https://github.com/user-attachments/assets/5df88e7e-221c-4099-b71a-c09e7aa352bf" />
 
 OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle — from napkin concept ➜ mass‑production.
 
