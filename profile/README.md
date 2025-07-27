@@ -3,7 +3,7 @@
 
 **Zero Pulse** is an opensource centralized knowledge base and SOP (Standard Operating Procedure) platform designed for engineers, startups, and enterprises around the world.
 
-Whether you're building your first product, scaling a team, or setting up internal processes — Zero Pulse offers step-by-step guides, templates, and technical documentation to help you move faster with clarity and confidence.
+Whether you're building your first product, scaling a team, or setting up internal processes, Zero Pulse offers step-by-step guides, templates, and technical documentation to help you move faster with clarity and confidence.
 
 🔹 For future-ready teams  
 🔹 Open, accessible, and evolving  
