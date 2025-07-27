@@ -1,5 +1,3 @@
-<img width="1536" height="685" alt="20250727_2034_Electric Thunder Logo_remix_01k165h6tdejd9zge64zbbt0xs (1)" src="https://github.com/user-attachments/assets/5df88e7e-221c-4099-b71a-c09e7aa352bf" />
-
 
 ![zeropulse_background](https://github.com/user-attachments/assets/48b1c3e5-bac5-4f0c-ac94-91230d1e1441)
 
