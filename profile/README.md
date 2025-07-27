@@ -31,42 +31,18 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 | **MfgAgent**    | Outputs Gerbers, PnP CSVs, and assembly docs                             |
 | **FleetAgent**  | Manages OTA updates and anomaly detection with MQTT & TimescaleDB       |
 
-### Digital Twin  
-Photorealistic simulation in Unreal Engine 5 or Unity HDRP.  
-- Sensor & actuator emulation  
-- Real-time testing for robotics, wearables, and automotive HMIs  
-- Supports both cloud (AWS NVIDIA L4) and local CI containers
 
-### AI-Assisted Development  
-- Auto component selection  
-- Circuit layout generation  
-- Performance prediction
+## 🌐 Connect with Us
 
-### Simulation & Verification  
-- Design validation in virtual environments  
-- Early bug detection and iteration
+You can find us at [openqquantify.com](#link-to-website) for platform access, documentation, and tutorials. Explore our AI and electronics research at the [Research Page](#link-to-research), follow us on [LinkedIn](#link-to-linkedin) for product updates, or check out our solutions at [Sensors.Services](#link-to-sensors-services). Join the conversation on [Reddit](#link-to-reddit), contribute via [GitHub](#link-to-github), or book a support meeting through [Calendly](#link-to-calendly). We’re proudly backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation, and trusted by innovators like Mazda, REW, and Moment Factory.
 
 ---
 
-## Community Engagement
+## 📜 License
 
-- **GitHub:** [Contribute on GitHub](#link-to-github)
-- **Reddit:** [Join us at r/OpenQQuantify](#link-to-reddit)
-- **Support:** [connect@openqquantify.com](mailto:connect@openqquantify.com) or [Book a Meeting](#link-to-calendly)
+See individual project repositories on [GitHub](#link-to-github-license) for licensing details.
 
 ---
----
-
-- 🌐 [Website](#link-to-website) – Platform access, tutorials, and docs  
-- 📄 [Research](#link-to-research) – AI & electronics innovation insights  
-- 💼 [LinkedIn](#link-to-linkedin) – News, updates, and case studies  
-- 🛠️ [Sensors.Services](#link-to-sensors-services) – AI solutions for robotics and more
-
----
-
-
-
-  Follow us on [LinkedIn](https://www.linkedin.com/company/openqquantify) or visit [openqquantify.com](https://www.openqquantify.com) to stay in the loop.
 
 ![zeropulse_background](https://github.com/user-attachments/assets/48b1c3e5-bac5-4f0c-ac94-91230d1e1441)
 
