@@ -2,8 +2,6 @@
 
 OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle from concept to production.
 
-
-
 ## Supported Hardware Platforms
 
 - **MCUs:** STM32, ESP32, Raspberry Pi Pico, Nordic nRF52, TI CC13xx/26xx  
@@ -14,7 +12,6 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 
 ## Development Pipeline
 
---
 
 | Agent        | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
@@ -32,7 +29,6 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 Built with intelligence, driven by innovation — find us at [OpenQQuantify.com](https://www.openqquantify.com/), explore our [research](https://www.openqquantify.com/research), learn more [about us](https://www.openqquantify.com/about_us), check out our [GitHub](https://github.com/OpenQ-Quantify), and connect with us on [LinkedIn](https://www.linkedin.com/company/openqquantify).
 
 **OpenQQuantify** - for the community, by the community.
-
 
 ![zeropulse_background](https://github.com/user-attachments/assets/48b1c3e5-bac5-4f0c-ac94-91230d1e1441)
 
