@@ -1,5 +1,4 @@
-
-![oqq_back_jpg![oqq_back_jpg](https://github.com/user-attachments/assets/faf49c6c-71cd-4e41-aae0-faf591214172)
+[oqq_back_jpg](https://github.com/user-attachments/assets/faf49c6c-71cd-4e41-aae0-faf591214172)
 **Design. Simulate. Accelerate.**  
 *AI-powered EDA and simulation platform for modern hardware engineering.*
 
