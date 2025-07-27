@@ -1,5 +1,5 @@
-![oqq_back_jpg](https://github.com/user-attachments/assets/271f00b0-51d2-4f39-8711-ccbb00561d7c)
 
+<img width="1536" height="1024" alt="20250727_2034_Electric Thunder Logo_remix_01k165h6tdejd9zge64zbbt0xs (1)" src="https://github.com/user-attachments/assets/210ef6e6-b9b2-48f0-83ec-98a696b09e19" />
 
 OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation (EDA) & simulation platform that lets you design, prototype, and validate electronics faster than ever. By uniting Generative AI, machine learning, autonomous multi‑agent orchestration, and a cloud‑native, game‑engine digital twin, we accelerate every phase of the hardware lifecycle — from napkin concept ➜ mass‑production.
 
@@ -29,7 +29,7 @@ OpenQ Quantify is an open‑source, AI‑powered Electronic Design Automation 
 
 
 You can find us at [openqquantify.com](#link-to-website) for platform access, documentation, and tutorials. Explore our AI and electronics research at the [Research Page](#link-to-research), follow us on [LinkedIn](#link-to-linkedin) for product updates, or check out our solutions at [Sensors.Services](#link-to-sensors-services). Join the conversation on [Reddit](#link-to-reddit), contribute via [GitHub](#link-to-github), or book a support meeting through [Calendly](#link-to-calendly). We’re proudly backed by Microsoft, Google, AWS, NVIDIA, and the Linux Foundation, and trusted by innovators like Mazda, REW, and Moment Factory.
-
+---
 Built with intelligence, driven by innovation, <b>OpenQQuantify</b>: For the community, by the community.
 
 ![zeropulse_background](https://github.com/user-attachments/assets/48b1c3e5-bac5-4f0c-ac94-91230d1e1441)
